@@ -133,7 +133,7 @@ for letter, elements in data['DATA'].items():
 #     cleaned_json_str = json.dumps(cleaned_data, indent=4)
 #     #print(cleaned_json_str)
 # except json.JSONDecodeError as e:
-#     print("JSON decoding error:", e)             
+#     print("JSON decoding error:", e)              
 
     #all_elements.append(json.loads(json_output))
         
